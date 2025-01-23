@@ -1,0 +1,4 @@
+Bus reservation system features
+Seat availability: Check the availability of seats on different buses 
+Bus schedule: Check the schedule of different buses 
+Personal data storage: Store customers' personal data records, scheduled routes, frequent trips, and drop points 
